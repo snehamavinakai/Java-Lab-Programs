@@ -17,6 +17,3 @@ class Fib
 		}
 	}
 }
-
-
-OTPUT
