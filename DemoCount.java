@@ -4,7 +4,9 @@ import java.lang.*;
 class DemoCount
 {
 	public static void main(String[] args) {
+		
 		int chVal = 0,strVal = 0,iVal = 0,dVal = 0;
+		
 		for (int i=0;i<args.length;i++) 
 		{
 		   if(args[i].matches("[a-zA-Z]+"))
